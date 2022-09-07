@@ -1,0 +1,52 @@
+body{
+    background-image: url(bg-desktop.svg);
+    background-color: rgb(132, 41, 216);
+    justify-content: center;
+    
+}
+.parent{
+    justify-content: center;
+    margin-left: 350px;
+}
+
+
+h3{
+    color: white;
+    font-size: larger;
+    font-size: 35px;
+}
+
+
+p{
+    color: white;
+    font-size: smaller;
+}
+
+.text h3{
+    color: white;
+    font-size: 20px;
+    justify-content: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+button{
+background: white;
+width: 150px;
+color: blueviolet;
+border-radius: 50px;
+border-color: white;
+padding: 6px;
+justify-content: center;
+}
+
+.image{
+    border-radius: 200px;
+    margin-left: 70px;
+}
+
+
+.image img{
+    border-radius: 200px;
+    border-color: white;
+}
